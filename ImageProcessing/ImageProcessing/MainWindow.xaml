@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:ImageProcessing"
         mc:Ignorable="d"
         ResizeMode="NoResize"
-        Title="MainWindow" Height="640" Width="1000">
+        Title="Image Processing" Height="640" Width="1000">
     <Grid>
         <Button x:Name="ChooseFile_btn" Content="Выбор изображения" HorizontalAlignment="Left" Margin="12,513,0,0" VerticalAlignment="Top" Width="160" Height="40" Click="ChooseFile_btn_Click"/>
         <Button x:Name="ApplyContrast_btn" Content="Применить контрастность" HorizontalAlignment="Left" Margin="333,511,0,0" VerticalAlignment="Top" Width="160" Height="40" Click="ApplyContrast_btn_Click"/>

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DWdfdoJzlvMcL/GNI4o6SNflSpWEeGQD1WYdxA8xWdHtEyAnz0Njd7Q18bxJwFRxR8C4MwilCqnUKmQMqD620Q==",
+  "dgSpecHash": "gnOA+CSKd8QdG+1zOvLzd/j+2b8AYnxvs3V57SvO1eoKOwgykygoj7m6bjNeFjkEOI8sZ0JsytAt12+iJDHKqQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mrgve\\Desktop\\sobel2\\ImageProcessing\\ImageProcessing\\ImageProcessing.csproj",
+  "projectFilePath": "C:\\Users\\mrgve\\Desktop\\imageProcessing\\ImageProcessing\\ImageProcessing\\ImageProcessing.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mrgve\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\mrgve\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mrgve\\Desktop\\sobel2\\ImageProcessing\\ImageProcessing\\ImageProcessing.csproj": {}
+    "C:\\Users\\mrgve\\Desktop\\imageProcessing\\ImageProcessing\\ImageProcessing\\ImageProcessing.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mrgve\\Desktop\\sobel2\\ImageProcessing\\ImageProcessing\\ImageProcessing.csproj": {
+    "C:\\Users\\mrgve\\Desktop\\imageProcessing\\ImageProcessing\\ImageProcessing\\ImageProcessing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mrgve\\Desktop\\sobel2\\ImageProcessing\\ImageProcessing\\ImageProcessing.csproj",
+        "projectUniqueName": "C:\\Users\\mrgve\\Desktop\\imageProcessing\\ImageProcessing\\ImageProcessing\\ImageProcessing.csproj",
         "projectName": "ImageProcessing",
-        "projectPath": "C:\\Users\\mrgve\\Desktop\\sobel2\\ImageProcessing\\ImageProcessing\\ImageProcessing.csproj",
+        "projectPath": "C:\\Users\\mrgve\\Desktop\\imageProcessing\\ImageProcessing\\ImageProcessing\\ImageProcessing.csproj",
         "packagesPath": "C:\\Users\\mrgve\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mrgve\\Desktop\\sobel2\\ImageProcessing\\ImageProcessing\\obj\\",
+        "outputPath": "C:\\Users\\mrgve\\Desktop\\imageProcessing\\ImageProcessing\\ImageProcessing\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mrgve\\AppData\\Roaming\\NuGet\\NuGet.Config",
